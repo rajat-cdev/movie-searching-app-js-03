@@ -1,7 +1,7 @@
 
 # Movie Searching App
 
-Javascript Project - 3 - Movie Searching App - https://rajat-cdev.github.io/password-generator-js-01/
+Javascript Project - 3 - Movie Searching App - https://rajat-cdev.github.io/movie-searching-app-js-03/
 
 Javascript Project - 2 - Drawing App - https://rajat-cdev.github.io/drawing-app-js-02/
 
